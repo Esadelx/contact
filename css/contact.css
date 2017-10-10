@@ -1,0 +1,20 @@
+/* start form */
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+    letter-spacing: -3px;
+    color:#447c98;
+}
+form{
+    max-width: 450px;
+    margin: 10px auto;
+}
+form input,
+form textarea{
+    margin-bottom: 10px;
+   
+}
+form textarea{
+    height : 150px ! important;
+}
